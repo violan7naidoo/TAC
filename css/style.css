@@ -363,6 +363,7 @@ figure {
   -ms-border-radius: 7px;
   border-radius: 7px;
 }
+
 #fh5co-header h1 {
   float: left;
   padding: 0;
@@ -374,6 +375,7 @@ figure {
   position: relative;
   color: black;
 }
+
 #fh5co-header h1 a > span {
   color: #d60b0b;
 }
