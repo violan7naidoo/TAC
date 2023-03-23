@@ -414,8 +414,9 @@ figure {
   #fh5co-header nav {
     display: none;
   }
-@media screen and (max-width: 480px) {
-  #fh5co-header img {
+}
+@media screen and (max-width: 768px) {
+  #fh5co-header li {
     display: none;
   }
 }
