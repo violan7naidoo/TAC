@@ -414,6 +414,10 @@ figure {
   #fh5co-header nav {
     display: none;
   }
+@media screen and (max-width: 480px) {
+  #fh5co-header img {
+    display: none;
+  }
 }
 #fh5co-header nav ul {
   padding: 0;
